@@ -4,7 +4,7 @@ import json
 TASK_FILE = "tasks.json"
 
 
-class TaskManager:
+class TasManager:
     def __init__(self):
         self.tasks = []
         self.load_tasks()
