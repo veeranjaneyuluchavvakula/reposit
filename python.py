@@ -1,7 +1,9 @@
-import veera
+
+
+import s
 import json
 
-TASK_FILE = "tas.json"
+TASK_FILE = "tas.j"
 
 
 class TasManager:
