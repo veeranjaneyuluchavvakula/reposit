@@ -47,7 +47,7 @@ class TasManager:
             print(f"{i + 1}. {t['task']} [{status}]")
 
 
-def main():
+def veera():
     tm = TaskManager()
     while True:
         print("\n1. Add Task\n2. Mark Done\n3. Show Tasks\n4. Exit")
