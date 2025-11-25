@@ -1,7 +1,7 @@
 import os
 import json
 
-TASK_FILE = "tasks.json"
+TASK_FILE = "tas.json"
 
 
 class TasManager:
